@@ -41,7 +41,10 @@ image_path = "test_img/Faze/img.png"  # 待识别的图片路径
 
 #### 效果
 
-![Face Recognition_screenshot_20.12.2024]([result\Face Recognition_screenshot_20.12.2024.png](https://github.com/Ethan-6626/Face_Recognize/blob/main/result/Face%20Recognition_screenshot_20.12.2024.png))
+![Face Recognition_screenshot_20.12.2024](https://github.com/Ethan-6626/Face_Recognize/blob/main/result/Face%20Recognition_screenshot_20.12.2024.png)
+
+
+
 
 ### face_compare.py
 
@@ -68,7 +71,7 @@ def main():
 
 #### 效果
 
-![Face_Compare](result\Face_Compare.png)
+![Face_Compare](https://github.com/Ethan-6626/Face_Recognize/blob/main/result/Face_Compare.png)
 
 ### RealTimeFR
 
