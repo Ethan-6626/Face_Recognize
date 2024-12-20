@@ -46,7 +46,7 @@ image_path = "test_img/Faze/img.png"  # 待识别的图片路径
 
 
 
-### face_compare.py
+### face_compare
 
 人脸对比是否为同一人。
 
