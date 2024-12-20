@@ -41,7 +41,7 @@ image_path = "test_img/Faze/img.png"  # 待识别的图片路径
 
 #### 效果
 
-![Face Recognition_screenshot_20.12.2024](E:\Learn_pytorch\计算机视觉\face_recognition_project\result\Face Recognition_screenshot_20.12.2024.png)
+![Face Recognition_screenshot_20.12.2024](result\Face Recognition_screenshot_20.12.2024.png)
 
 ### face_compare.py
 
@@ -68,7 +68,7 @@ def main():
 
 #### 效果
 
-![Face_Compare](E:\Learn_pytorch\计算机视觉\face_recognition_project\result\Face_Compare.png)
+![Face_Compare](result\Face_Compare.png)
 
 ### RealTimeFR
 
@@ -86,5 +86,5 @@ def main():
 
 ## 对应的计算机视觉课程设计PDF
 
-[实验5-基于深度学习的人脸识别技术.pdf](file:///E:/Learn_pytorch/计算机视觉/face_recognition_project/pdf/实验5-基于深度学习的人脸识别技术.pdf)
+[实验5-基于深度学习的人脸识别技术.pdf](file:///pdf/实验5-基于深度学习的人脸识别技术.pdf)
 
