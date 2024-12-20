@@ -89,5 +89,5 @@ def main():
 
 ## 对应的计算机视觉课程设计PDF
 
-[实验5-基于深度学习的人脸识别技术.pdf](file:///pdf/实验5-基于深度学习的人脸识别技术.pdf)
+[实验5-基于深度学习的人脸识别技术.pdf](https://github.com/Ethan-6626/Face_Recognize/blob/main/pdf/%E5%AE%9E%E9%AA%8C5-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%8A%80%E6%9C%AF.pdf)
 
